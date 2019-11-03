@@ -1,4 +1,9 @@
 django
 djangorestframework
+axios
 
-https://www.youtube.com/watch?v=uZgRbnIsgrA - video 1
+https://www.youtube.com/watch?v=uZgRbnIsgrA - video 1 
+
+reached installing django-cors-headers 34:25
+
+I need to finish this tutorial because it might be crucial for the interview
