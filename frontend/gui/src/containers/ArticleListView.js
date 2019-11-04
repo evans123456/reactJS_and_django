@@ -34,7 +34,7 @@ class ArticleList extends React.Component {
 
     render(){
         return(
-            <Article data={listData} />
+            <Article data={this.state.articles} />
         )
     }
 }
